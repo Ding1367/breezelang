@@ -1,0 +1,3 @@
+/Users/alifezithu/Documents/CLionProjects/breezelang/cmake-build-debug/CMakeFiles/breezelang.dir
+/Users/alifezithu/Documents/CLionProjects/breezelang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alifezithu/Documents/CLionProjects/breezelang/cmake-build-debug/CMakeFiles/rebuild_cache.dir

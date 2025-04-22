@@ -1,0 +1,16 @@
+using std::io
+
+// func main(argc: int, argv: str[]) -> int {...}
+func main(argc, argv) {
+    out.printf("Hello, World!\n")
+
+    var x = 0
+    // [init..next..end]
+    // the step is next - init
+    // for i: int = [1..2..5]! {...}
+    for i = [1,...,5]! {
+        out.printf("Iteration %d\n", i)
+        x += i
+    }
+    return x
+}
